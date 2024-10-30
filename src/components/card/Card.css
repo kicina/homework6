@@ -1,0 +1,10 @@
+.card{
+    border: 2px solid lime;
+    background-color: lime;
+    border-radius: 50px;
+}
+
+.img{
+    width: 20px;
+    height: 20px;
+}

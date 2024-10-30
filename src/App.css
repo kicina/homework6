@@ -1,0 +1,30 @@
+*{
+  justify-content: center;
+  align-items: center;
+  background-color: darkblue;
+}
+
+.title{
+  color: lime;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.advicecard{
+  border: 2px solid darkslateblue;
+  background-color: darkslateblue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+}
+
+.container{
+  justify-content: center;
+}
+
+.button{
+  border-radius: 50px;
+  background-color: lime;
+  border: lime;
+}
+
